@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a final year student at Northumbria University and will finish in July 2024.
 
-[https:](https://reececarruthers.co.uk/)
+[reececarruthers.co.uk](https://reececarruthers.co.uk/)
 
 <!--
 **Reece-Carruthers/reece-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
