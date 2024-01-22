@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am a final year student at Northumbria University and will graduate in July 2024.
+### 🎓 I am a final year student at Northumbria University and will graduate in July 2024.
 
 ### 🌱 I am currently learning React
 
