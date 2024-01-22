@@ -5,7 +5,7 @@
 
 [Visit my personal website at: www.reececarruthers.co.uk](https://reececarruthers.co.uk/)
 
-[![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reece-Carruthers&show=reviews&hide=stars,issues&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reece-Carruthers&show=reviews&hide=stars,issues&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
