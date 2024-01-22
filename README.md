@@ -1,8 +1,8 @@
 ### Hi there 👋 I am a final year student at Northumbria University and will graduate in July 2024.
 
-[www.reececarruthers.co.uk](https://reececarruthers.co.uk/)
+[Visit my personal website at: www.reececarruthers.co.uk](https://reececarruthers.co.uk/)
 
-[![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reece-Carruthers&show=reviews&hide=stars,issues&show_icons=true&theme=radical&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reece-Carruthers&show=reviews&hide=stars,issues&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
