@@ -1,4 +1,4 @@
-### Hi there 👋 I am a final year student at Northumbria University and will finish in July 2024.
+### Hi there 👋 I am a final year student at Northumbria University and will graduate in July 2024.
 
 [reececarruthers.co.uk](https://reececarruthers.co.uk/)
 
