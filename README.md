@@ -1,7 +1,7 @@
-### Hi there 👋 
+### Hi 👋 
 ### 🎓 I am a final year student at Northumbria University and will graduate in July 2024.
 
-### 🌱 I am currently learning React
+### 🌱 I am currently learning React, and C# for game development in Facepunch's S&Box
 
 [Visit my personal website at: www.reececarruthers.co.uk](https://reececarruthers.co.uk/)
 
