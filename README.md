@@ -1,5 +1,5 @@
 ### Hi 👋 
-### 🎓 I am a final year student at Northumbria University and will graduate in July 2024.
+### 🎓 I have graduated from Northumbria Unviersity with a first class BCs in Computer Science and I am now working as a Scala developer.
 
 ### 🌱 I am currently learning React, and C# for game development in Facepunch's S&Box
 
